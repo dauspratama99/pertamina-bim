@@ -1,0 +1,12 @@
+8. samakan tampilan laporan dengan form asli pertamina
+
+yang sudah OK
+-------------
+1. tambah level user ('Operation Head', 'Supervisor', 'Certified Reffueling Operator', 'Maintenance') -> ok
+2. data unit ganti jadi reffuler -> ok
+3. laporan pada saat dicetak lansung dumy pdf -> ok
+4. akses web level ('Operation Head', 'Supervisor') -> ok
+5. logo pertamina hitam putih, sudut kanan atas -> ok
+6. lap ceklist paksa 1 halaman -> ok
+7. tambah background foto login -> ok
+8. filter berdasarkan unit, tampilkan unit pada saat berhasil pencarian -> ok
